@@ -1,4 +1,4 @@
-# Abgular
+# Angular
 
 # Name : Abinandhan R
 # Reg No : 410721104002
